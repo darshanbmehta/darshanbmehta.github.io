@@ -2,236 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://darshanbmehta.github.io/</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-02-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://darshanbmehta.github.io/publications.html</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-02-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/sample-paper.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/A Fuzzy Logic-Based Energy Management Strategy for Optimal Solar Car Performance.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/A Solar-Powered Ventilation System for Mitigating Extreme Temperatures in Parked Vehicles .pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Advanced Photovoltaic System Architectures for High-Efficiency Solar-Electric Vehicles.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Analysis of Hybrid Solar Vehicle Systems- Advances and Remaining Barriers to Consumer Adoption.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Assessment of Cabin Thermal Management and Ergonomic Controls in Solar Cars.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Assessment of Solar-Powered Vehicles as a Viable Alternative to Internal Combustion Engines.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Characterization and Strengthening Mechanism of High-Strength Medium-Carbon Spring Steel.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Design and Development of a Cost-Effective Solar Racing Vehicle Using Off-the-Shelf Components.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Design and Optimization of a Next-Generation Solar Electric Vehicle for Urban Mobility.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Development of a Solar-Powered Racing Vehicle for Endurance Competition- Design^J Fabrication^J and Performance Targets.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Efficient Privacy Protection via Quantization in Edge and Federated Machine Learning Deployments copy.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Ensuring Privacy in Machine Learning Algorithms2024.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Evolution and Prospects of Solar-Assisted Hybrid Automobile Technology.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/GSM-Based Remote Control System for a Solar-Powered Vehicle Utilizing SMS Commands .pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Human Factors and Safety in Lightweight Solar Vehicle Cabins.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Integrative Analysis of Mechanical Property Evolution in Alternately Quenched Medium-Carbon Steel.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Life Cycle Energetics and Emission Reductions in Solar-Powered EVs.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Multi-Route Hardening Strategies for Microstructural and Mechanical Property Optimization in AISI 4137.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Nanomaterials Advancing Solar Energy Conversion.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Nanotechnology Innovations for High-Efficiency Solar Energy Systems.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Performance Analysis of Integrated Photovoltaic Systems for Electric Vehicles.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Predictive Model for Energy Balance and Range Estimation in Solar EV’s Under Variable Environmental Conditions .pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Review of Solar Cell Generations- Historical Progress and the Nanotechnology Frontier.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Structured Evaluation and User Acceptance Ranking for Privacy-Preserving ML Techniques copy.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/Sustainable Design and Modular Assembly of Eco-Friendly Urban Vehicles.pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://darshanbmehta.github.io/publications/The State of Solar-Powered Automobiles- A Review of Technological Progress and Commercialization Challenges .pdf</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://darshanbmehta.github.io/publications/Cross-Modal%20Alignment%20Strategies%20for%20Robust%20Multimodal%20Conversational%20Agents%20under%20Acoustic%20and%20Visual%20Degradation%202025.pdf</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://darshanbmehta.github.io/publications/Data-Driven%20Selection%20of%20Hardening%20Routes%20for%20Low-Alloy%20Medium-Carbon%20Spring%20Steel%20Using%20Multi-Objective%20Materials%20Design%202023.pdf</loc>
     <lastmod>2023-01-15</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://darshanbmehta.github.io/publications/Differentially%20Private%20Lookalike%20Audience%20Expansion%20via%20Federated%20Representation%20Learning%202025.pdf</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://darshanbmehta.github.io/publications/Fatigue%20Life%20Correlations%20in%20Low-Alloy%20Medium-Carbon%20Spring%20Steel%20Subjected%20to%20Competing%20Hardening%20Schedules%202023.pdf</loc>
     <lastmod>2023-01-15</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://darshanbmehta.github.io/publications/Fatigue%20Response%20of%20Low-Alloy%20Medium-Carbon%20Spring%20Steel%20after%20Austempering%2C%20Quench%E2%80%93Temper%2C%20and%20Induction%20Surface%20Hardening%202023.pdf</loc>
     <lastmod>2023-01-15</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://darshanbmehta.github.io/publications/Gradient%20Martensite%E2%80%93Bainite%20Architectures%20in%20Low-Alloy%20Medium-Carbon%20Spring%20Steel%20via%20Sequential%20Induction%20and%20Austempering%20Treatments%202023.pdf</loc>
     <lastmod>2023-01-15</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://darshanbmehta.github.io/publications/Plasticity%20Modelling%20of%20Springback%20in%20Hot-Formed%20Low-Alloy%20Medium-Carbon%20Steels%20with%20Alternative%20Hardening%20Histories%202023.pdf</loc>
     <lastmod>2023-01-15</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://darshanbmehta.github.io/publications/Response%20of%20Low-Alloy%20Medium-Carbon%20Spring%20Steel%20Hardened%20by%20Competing%20Martensitic%20and%20Bainitic%20Routes%202023.pdf</loc>
     <lastmod>2023-01-15</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://darshanbmehta.github.io/publications/Selection%20of%20Hardening%20Routes%20for%20Low-Alloy%20Spring%20Steels%20within%20a%20Process%E2%80%93Microstructure%E2%80%93Fatigue%20Design%20Space%202024.pdf</loc>
     <lastmod>2024-01-15</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://darshanbmehta.github.io/publications/Ultrafine%20Bainite%20versus%20Tempered%20Martensite%20in%20Medium-Carbon%20Spring%20Steel-%20A%20Micromechanical%20Comparison%20of%20Strain%20Partitioning%202024.pdf</loc>
     <lastmod>2024-01-15</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
 </urlset>
